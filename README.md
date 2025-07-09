@@ -28,7 +28,7 @@
 
 
 
-<h1 align="center"> Hey 👋, I'm Nikunj Rana 👋</h1>
+<p align="center"> Hey 👋, I'm Nikunj Rana 👋</p>
 <Palign="center">Full-Stack Developer 👨‍💻</P>
 
 
@@ -74,4 +74,4 @@ Aspiring Full-Stack Developer 👨‍💻 <br>Currently learning MERN Stack (Mon
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
