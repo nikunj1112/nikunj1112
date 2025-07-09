@@ -1,6 +1,7 @@
 <div align="right">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-  <br>
+</div>
+<div>
    <p > <img src="https://komarev.com/ghpvc/?username=nikunj1112&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj1112" /> </p>
 </div>
 <h1 align="start"> Hey 👋, I'm Nikunj Rana 👋</h1> 
