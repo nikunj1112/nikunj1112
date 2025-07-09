@@ -18,7 +18,7 @@ always improving 📚<br> Open to collaboration, feedback, and sharing knowledge
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -39,7 +39,7 @@ always improving 📚<br> Open to collaboration, feedback, and sharing knowledge
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nikunj1112&theme=rose&hide_border=false&include_all_commits=true&count_private=false) 
 ![](https://nirzak-streak-stats.vercel.app/?user=nikunj1112&theme=rose&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj1112&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
