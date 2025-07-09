@@ -8,7 +8,7 @@
 
 
 
-<div align="center">
+<div align="center ">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -28,8 +28,8 @@
 
 
 
-<p align="center"> Hey 👋, I'm Nikunj Rana 👋</p>
-<Palign="center">Full-Stack Developer 👨‍💻</P>
+<h1 align="center"> Hey 👋, I'm Nikunj Rana 👋</h1>
+<P align="center">Full-Stack Developer 👨‍💻</P>
 
 
 
