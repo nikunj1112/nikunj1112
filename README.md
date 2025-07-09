@@ -2,7 +2,7 @@
 <h1 align="center"> Hey 👋, I'm Nikunj Rana 👋</h1>
 Aspiring Full-Stack Developer 👨‍💻 <br>Currently learning MERN Stack (MongoDB, Express, React, Node) 🚀 <br>Passionate about building real-world web applications 🌐 <br>Always learning, always improving 📚 <br>Open to collaboration, feedback, and sharing knowledge with the community🤝
 
-###
+
 <div align="center ">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
