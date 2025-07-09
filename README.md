@@ -44,6 +44,30 @@ Aspiring Full-Stack Developer 👨‍💻 <br>Currently learning MERN Stack (Mon
 
 ![Hacker](https://media.giphy.com/media/l3vRnZ5eW77UJFJCE/giphy.gif)
 
+![Typing](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+
+![Web Dev Girl](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+
+![Laptop](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+
+![Rocket Coding](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+
+
+![Loading](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+
+
+---
+### 🚀 Keep Learning, Keep Building!
+
+![Rocket Coding](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+
+
+## 🌱 Currently Learning
+![Typing](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+
+
 
 
 
