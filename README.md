@@ -1,8 +1,14 @@
 
 <h1 align="center"> Hey 👋, I'm Nikunj Rana 👋</h1>
+
+<div>
 Aspiring Full-Stack Developer 👨‍💻 Currently learning MERN Stack (MongoDB, Express, React, Node) 🚀 Passionate about building real-world web applications 🌐 Always learning, always improving 📚 Open to collaboration, feedback, and sharing knowledge with the community🤝
 
+<div align="center">
+ <p > <img src="https://komarev.com/ghpvc/?username=nikunj1112&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj1112" /> </p>
+</div>
 
+</div>
 
 
 ###
