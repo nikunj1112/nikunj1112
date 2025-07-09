@@ -1,10 +1,4 @@
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-<br>
-<div>
-   <p align="right" > <img src="https://komarev.com/ghpvc/?username=nikunj1112&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj1112" /> </p>
-</div>
+
 <h1 align="start"> Hey 👋, I'm Nikunj Rana 👋</h1> 
 
 Aspiring Full-Stack Developer 👨‍💻 <br> Currently learning MERN Stack (MongoDB, Express, React, Node) 🚀 <br>Passionate about building real-world web applications 🌐<br> Always learning, 
@@ -49,7 +43,20 @@ always improving 📚<br> Open to collaboration, feedback, and sharing knowledge
 
 ## 🚀 Keep Learning, Keep Building!
 
-![Coder](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) &nbsp;  &nbsp;![Web Dev Girl](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Coder](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) &nbsp;  &nbsp;<div align="right">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+<br>
+<div>
+   <p align="right" > <img src="https://komarev.com/ghpvc/?username=nikunj1112&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj1112" /> </p>
+</div>
+
+
+
+
+
+
+![Web Dev Girl](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 
 
