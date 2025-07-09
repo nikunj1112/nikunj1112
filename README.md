@@ -43,8 +43,10 @@ always improving 📚<br> Open to collaboration, feedback, and sharing knowledge
 
 ## 🚀 Keep Learning, Keep Building!
 
-![Coder](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) &nbsp;  &nbsp;<div align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+![Coder](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) &nbsp;  &nbsp;   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<div align="right">
+
 </div>
 <br>
 <div>
