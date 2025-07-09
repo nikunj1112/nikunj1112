@@ -8,7 +8,10 @@ Aspiring Full-Stack Developer 👨‍💻 <br> Currently learning MERN Stack (Mo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikunj-rana-7ba712319 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:8891nikunjrana@gmail.com) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RanaNikunj64846) 
 
-
+<div align="left">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+   <p > <img src="https://komarev.com/ghpvc/?username=nikunj1112&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj1112" /> </p>
+</div>
 
 
 # 💻 Tech Stack:
@@ -40,6 +43,7 @@ Aspiring Full-Stack Developer 👨‍💻 <br> Currently learning MERN Stack (Mo
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+   <p > <img src="https://komarev.com/ghpvc/?username=nikunj1112&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj1112" /> </p>
 </div>
 
 
