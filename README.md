@@ -10,7 +10,9 @@ Aspiring Full-Stack Developer 👨‍💻 <br>Currently learning MERN Stack (Mon
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=nikunj1112&theme=rose&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj1112&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj1112&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=nikunj1112&theme=rose&hide_border=false)
 
 
