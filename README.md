@@ -48,7 +48,7 @@ always improving 📚<br> Open to collaboration, feedback, and sharing knowledge
 
 ## 🚀 Keep Learning, Keep Building!
 
-![Coder](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  &nbsp;![Web Dev Girl](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![Coder](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) &nbsp;  &nbsp;![Web Dev Girl](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 
 
