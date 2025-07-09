@@ -37,5 +37,9 @@ Aspiring Full-Stack Developer 👨‍💻 <br>Currently learning MERN Stack (Mon
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikunj1112&" alt="nikunj1112" /></p>
 
 
+![Loading](https://readme-typing-svg.herokuapp.com?lines=Loading...;Building+Skills...;Conquering+the+Web!&center=true&width=280&color=F7DF1E)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
