@@ -9,15 +9,13 @@
 </div>
 <h1 align="center"> Hey 👋, I'm Nikunj Rana 👋</h1>
 
-
+ ###
 Aspiring Full-Stack Developer 👨‍💻 <br> Currently learning MERN Stack (MongoDB, Express, React, Node) 🚀 <br>Passionate about building real-world web applications 🌐<br> Always learning, always improving 📚<br> Open to collaboration, feedback, and sharing knowledge with the community🤝
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikunj-rana-7ba712319 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:8891nikunjrana@gmail.com) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RanaNikunj64846) 
-
-
 
 
 # 💻 Tech Stack:
