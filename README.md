@@ -40,6 +40,11 @@ Aspiring Full-Stack Developer 👨‍💻 <br>Currently learning MERN Stack (Mon
 
 ![Coder](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/nikunj1112/nikunj1112/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
