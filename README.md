@@ -14,30 +14,21 @@ Aspiring Full-Stack Developer 👨‍💻 <br>Currently learning MERN Stack (Mon
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj1112&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nikunj1112&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nikunj1112&limit=5&theme=rose&combine_all_yearly_contributions=true)
+### 🚀 Keep Learning, Keep Building!
 
----
+![Coder](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  &nbsp; &nbsp; &nbsp;![Web Dev Girl](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+
+
+
 [![](https://visitcount.itsvg.in/api?id=nikunj1112&icon=2&color=5)](https://visitcount.itsvg.in)
 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikunj1112&show_icons=true&locale=en&layout=compact" alt="nikunj1112" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikunj1112&show_icons=true&locale=en" alt="nikunj1112" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikunj1112&" alt="nikunj1112" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikunj1112&" alt="nikunj1112" /></p>
 
 
-### 🚀 Keep Learning, Keep Building!
-
-![Coder](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Web Dev Girl](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 
 
