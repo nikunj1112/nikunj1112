@@ -1,17 +1,20 @@
 
 <h1 align="start"> Hey 👋, I'm Nikunj Rana 👋</h1>
 
-Aspiring Full-Stack Developer 👨‍💻 <br> Currently learning MERN Stack (MongoDB, Express, React, Node) 🚀 <br>Passionate about building real-world web applications 🌐<br> Always learning, always improving 📚<br> Open to collaboration, feedback, and sharing knowledge with the community🤝
+Aspiring Full-Stack Developer 👨‍💻 <br> Currently learning MERN Stack (MongoDB, Express, React, Node) 🚀 <br>Passionate about building real-world web applications 🌐<br> Always learning, 
+always improving 📚<br> Open to collaboration, feedback, and sharing knowledge with the community🤝
 
+###
+<div align="right">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+   <p > <img src="https://komarev.com/ghpvc/?username=nikunj1112&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj1112" /> </p>
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikunj-rana-7ba712319 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:8891nikunjrana@gmail.com) <br>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@RanaNikunj64846) 
 
-<div align="right">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-   <p > <img src="https://komarev.com/ghpvc/?username=nikunj1112&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj1112" /> </p>
-</div>
+
 
 
 # 💻 Tech Stack:
@@ -39,17 +42,7 @@ Aspiring Full-Stack Developer 👨‍💻 <br> Currently learning MERN Stack (Mo
 ![](https://nirzak-streak-stats.vercel.app/?user=nikunj1112&theme=rose&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj1112&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-   <p > <img src="https://komarev.com/ghpvc/?username=nikunj1112&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj1112" /> </p>
-</div>
-
-
-<div align="center">
- <p > <img src="https://komarev.com/ghpvc/?username=nikunj1112&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj1112" /> </p>
-</div>
 
 
 
