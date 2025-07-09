@@ -29,11 +29,6 @@
 
 
 <h1 align="center"> Hey 👋, I'm Nikunj Rana 👋</h1>
-<P align="center">Full-Stack Developer 👨‍💻</P>
-
-
-
-# 💫 About Me:
 Aspiring Full-Stack Developer 👨‍💻 <br>Currently learning MERN Stack (MongoDB, Express, React, Node) 🚀 <br>Passionate about building real-world web applications 🌐 <br>Always learning, always improving 📚 <br>Open to collaboration, feedback, and sharing knowledge with the community<br>🤝<br>
 
 
