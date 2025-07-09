@@ -41,7 +41,7 @@ always improving 📚<br> Open to collaboration, feedback, and sharing knowledge
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nikunj1112&theme=rose&hide_border=false&include_all_commits=true&count_private=false)  &nbsp; &nbsp;
-![](https://nirzak-streak-stats.vercel.app/?user=nikunj1112&theme=rose&hide_border=false <br>
+![](https://nirzak-streak-stats.vercel.app/?user=nikunj1112&theme=rose&hide_border=false &nbsp; &nbsp;&nbsp; &nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj1112&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
 
