@@ -49,7 +49,7 @@ always improving 📚<br> Open to collaboration, feedback, and sharing knowledge
 
 ## 🚀 Keep Learning, Keep Building!
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300" alt="Coder"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="400" alt="Web Dev Girl">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="300" alt="Coder"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" height="400" alt="Web Dev Girl">
 
 
 
