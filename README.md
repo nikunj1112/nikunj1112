@@ -6,23 +6,11 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=👋%20Hi,%20I'm%20Nikunj%20Rana&fontSize=42&fontAlignY=36&animation=twinkling&color=0:0ea5e9,100:6366f1&desc=Full-Stack%20Developer%20(MERN)&descAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=👋%20Hi,%20I'm%20Nikunj%20Rana&fontSize=44&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20(MERN)&descAlignY=55"
   />
 </p>
 
 
-
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=👋%20Hi,%20I'm%20Nikunj%20Rana&fontSize=42&fontAlignY=36&animation=twinkling&color=0:0ea5e9,100:6366f1&desc=Full-Stack%20Developer%20(MERN)&descAlignY=55"
-  />
-</p>
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=👋%20Hi,%20I'm%20Nikunj%20Rana&fontSize=40&fontAlignY=35&animation=fadeIn" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(MERN);React+%7C+Node+%7C+MongoDB;Building+Real-World+Web+Apps;Always+Learning+%26+Improving" />
@@ -122,14 +110,6 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 </p>
 
 
-
-## 🧩 My Goal
-
-> Build applications that are  
-> **useful, scalable, and easy to understand**.
-
-
-
 ## 🚀 Keep Learning, Keep Building!
 
 <p>
@@ -138,6 +118,12 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="333" height="187"/>
 </p>
 
+
+
+## 🧩 My Goal
+
+> Build applications that are  
+> **useful, scalable, and easy to understand**.
 
 
 ## ⭐ If you like my work
