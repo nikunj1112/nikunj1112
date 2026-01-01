@@ -20,9 +20,11 @@
   <a href="https://linkedin.com/in/nikunj-rana-7ba712319">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+  
   <a href="mailto:8891nikunjrana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
   </a>
+  
   <a href="https://x.com/@RanaNikunj64846">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x"/>
   </a>
@@ -30,7 +32,6 @@
 
 <!-- ===== END HEADER ===== -->
 
--
 
 ## 🧠 About Me
 
@@ -43,7 +44,7 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 - 🔹 Open for **internships, freelance & collaboration**
 - 🔹 Growth > Comfort zone
 
----
+
 
 ## 💻 Tech Stack 
 
@@ -81,7 +82,7 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
 </p>
 
----
+
 
 ## 🧩 What I’m Working On
 - 🔹 Full-stack MERN projects
@@ -90,7 +91,7 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 - 🔹 Cloud deployment (AWS + Docker)
 - 🔹 System design basics
 
----
+
 
 
 ## 📈 GitHub Analytics
@@ -100,14 +101,14 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 ![](https://nirzak-streak-stats.vercel.app/?user=nikunj1112&theme=rose&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj1112&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
----
+
 
 ## 🧩 My Goal
 
 > Build applications that are  
 > **useful, scalable, and easy to understand**.
 
----
+
 
 ## 🚀 Keep Learning, Keep Building!
 
@@ -118,12 +119,10 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 </p>
 
 
----
 
 ## ⭐ If you like my work
 - Follow my GitHub  
 - Check my projects  
 - Let’s collaborate and grow together 🌱
 
----
 
