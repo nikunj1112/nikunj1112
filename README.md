@@ -32,10 +32,14 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 <p>
 <a href="https://linkedin.com/in/nikunj-rana-7ba712319">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
-</a>
+</a> 
+</p>
+<p>
 <a href="mailto:8891nikunjrana@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail"/>
 </a>
+</p>
+<p>
 <a href="https://x.com/@RanaNikunj64846">
   <img src="https://img.shields.io/badge/X-Follow-black?logo=x"/>
 </a>
@@ -71,7 +75,7 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 
 ### ☁️ Cloud, DevOps & Tools
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42"/>
