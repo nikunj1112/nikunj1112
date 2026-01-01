@@ -2,15 +2,33 @@
 <!--  GitHub Profile README -->
 <!-- ===================== -->
 
+<!-- ===== PREMIUM GITHUB HEADER ===== -->
 
-<h1 align="center">👋 Hi, I'm Nikunj Rana</h1>
 <p align="center">
-  💻 Full-Stack Developer (MERN) | 🌱 Tech Explorer | 🚀 Builder Mindset
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=👋%20Hi,%20I'm%20Nikunj%20Rana&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikunj1112&label=Visitors&color=brightgreen&style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(MERN);React+%7C+Node+%7C+MongoDB;Building+Real-World+Web+Apps;Always+Learning+%26+Improving" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikunj1112&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nikunj-rana-7ba712319">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:8891nikunjrana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://x.com/@RanaNikunj64846">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x"/>
+  </a>
+</p>
+
+<!-- ===== END HEADER ===== -->
 
 ---
 
@@ -27,25 +45,6 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 
 ---
 
-## 🔗 Reach Me Here
-
-<p>
-<a href="https://linkedin.com/in/nikunj-rana-7ba712319">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
-</a> 
-</p>
-<p>
-<a href="mailto:8891nikunjrana@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-red?logo=gmail"/>
-</a>
-</p>
-<p>
-<a href="https://x.com/@RanaNikunj64846">
-  <img src="https://img.shields.io/badge/X-Follow-black?logo=x"/>
-</a>
-</p>
-
----
 ## 💻 Tech Stack 
 
 ### 🧠 Programming Languages
@@ -115,7 +114,7 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 <p>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="333" />
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="333"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="333"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="333" height="187"/>
 </p>
 
 
