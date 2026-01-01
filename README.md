@@ -48,41 +48,22 @@ I focus on building **clean, user-friendly interfaces**, **scalable backend APIs
 - 🌱 Continuously learning **modern tools, patterns, and best practices**
 
 
-## 💻 Tech Stack 
 
-### 🧠 Programming Languages
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-</p>
 
-### 🎨 Frontend
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="42"/>
-</p>
 
-### ⚙️ Backend & Databases
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="42"/>
-</p>
+## 💻 Tech Stack & Skills
 
-### ☁️ Cloud, DevOps & Tools
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
-</p>
+| Category | Technologies |
+|--------|-------------|
+| **🧠 Programming Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **🎨 Frontend** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| **⚙️ Backend** | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
+| **🗄 Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **☁️ DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) |
+
+
+
+
 
 
 ## 🧩 Currently Working On
