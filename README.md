@@ -118,7 +118,7 @@ I focus on building **clean, user-friendly interfaces**, **scalable backend APIs
 
 ## 🧩 My Goal
 
-> Build applications that are  
+> Build website that are  
 > **useful, scalable, and easy to understand**.
 
 
