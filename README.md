@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 
-<p align="center">👋 Hi, I'm Nikunj Rana</p>
+<h3 align="center">👋 Hi, I'm Nikunj Rana</h3>
 <p align="center">
   💻 Full-Stack Developer (MERN) | 🌱 Tech Explorer | 🚀 Builder Mindset
 </p>
