@@ -46,7 +46,7 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 </p>
 
 ---
-## 💻 Tech Stack (2025–2026 Ready)
+## 💻 Tech Stack 
 
 ### 🧠 Programming Languages
 <p>
@@ -112,10 +112,10 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 
 ## 🚀 Keep Learning, Keep Building!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<p>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="333" />
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="333"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="333"/>
 </p>
 
 
