@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 
-<h2 align="center">👋 Hi, I'm Nikunj Rana</h2>
+👋 Hi, I'm Nikunj Rana
 <p align="center">
   💻 Full-Stack Developer (MERN) | 🌱 Tech Explorer | 🚀 Builder Mindset
 </p>
@@ -114,10 +114,9 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 
 <p>
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="333" />
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="333"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="333"/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="333"/>
 </p>
-
 
 
 ---
