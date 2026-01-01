@@ -82,10 +82,10 @@ I focus on building **clean, user-friendly interfaces**, **scalable backend APIs
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj1112&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
 
-## 📈 Contribution Graph
-<p align="center">
+
+<!-- ## 📈 Contribution Graph  <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikunj1112&theme=tokyo-night&hide_border=true"/>
-</p>
+</p> -->
 
 
 ## 🚀 Keep Learning, Keep Building!
