@@ -4,7 +4,6 @@
 
 
 <h2 align="center">👋 Hi, I'm Nikunj Rana</h2>
-
 <p align="center">
   💻 Full-Stack Developer (MERN) | 🌱 Tech Explorer | 🚀 Builder Mindset
 </p>
@@ -123,13 +122,10 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 
 ---
 
-### ⭐ If you like my work
+## ⭐ If you like my work
 - Follow my GitHub  
 - Check my projects  
 - Let’s collaborate and grow together 🌱
 
 ---
 
-
-
-\
