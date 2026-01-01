@@ -5,6 +5,22 @@
 <!-- ===== PREMIUM GITHUB HEADER ===== -->
 
 <p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=👋%20Hi,%20I'm%20Nikunj%20Rana&fontSize=42&fontAlignY=36&animation=twinkling&color=0:0ea5e9,100:6366f1&desc=Full-Stack%20Developer%20(MERN)&descAlignY=55"
+  />
+</p>
+
+
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=👋%20Hi,%20I'm%20Nikunj%20Rana&fontSize=42&fontAlignY=36&animation=twinkling&color=0:0ea5e9,100:6366f1&desc=Full-Stack%20Developer%20(MERN)&descAlignY=55"
+  />
+</p>
+
+
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=👋%20Hi,%20I'm%20Nikunj%20Rana&fontSize=40&fontAlignY=35&animation=fadeIn" />
 </p>
 
@@ -92,14 +108,18 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 - 🔹 System design basics
 
 
-
-
 ## 📈 GitHub Analytics
 
 
 ![](https://github-readme-stats.vercel.app/api?username=nikunj1112&theme=rose&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=nikunj1112&theme=rose&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunj1112&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
+
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikunj1112&theme=tokyo-night&hide_border=true"/>
+</p>
 
 
 
