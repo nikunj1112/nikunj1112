@@ -39,15 +39,13 @@
 
 ## 🧠 About Me
 
-I am a **self-driven developer** focused on learning and building modern web applications.  
-I believe in **learning by doing**, breaking things, fixing them, and improving every day.
+I am a **motivated Full-Stack Developer (MERN)** with a strong interest in **frontend engineering using React**.  
+I focus on building **clean, user-friendly interfaces**, **scalable backend APIs**, and **real-world projects** that solve practical problems.
 
-- 🔹 MERN Stack learner with strong fundamentals  
-- 🔹 Interested in **real-world problem solving**
-- 🔹 Love clean UI, scalable backend & logic
-- 🔹 Open for **internships, freelance & collaboration**
-- 🔹 Growth > Comfort zone
-
+- 🎯 Actively seeking **Frontend / Full-Stack Internship opportunities**
+- 🧠 Strong fundamentals in **JavaScript, React, and REST APIs**
+- 🛠 Hands-on experience through **real projects**, not just tutorials
+- 🌱 Continuously learning **modern tools, patterns, and best practices**
 
 
 ## 💻 Tech Stack 
@@ -87,13 +85,12 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 </p>
 
 
-
-## 🧩 What I’m Working On
-- 🔹 Full-stack MERN projects
-- 🔹 REST APIs & authentication systems
-- 🔹 Clean UI/UX with modern CSS
-- 🔹 Cloud deployment (AWS + Docker)
-- 🔹 System design basics
+## 🧩 Currently Working On
+- 🔥 Full-stack MERN applications  
+- 🔐 Authentication & REST APIs  
+- 🎨 Modern UI/UX systems  
+- ☁️ AWS + Docker deployment  
+- 🏗 System design fundamentals 
 
 
 ## 📈 GitHub Analytics
@@ -113,9 +110,8 @@ I believe in **learning by doing**, breaking things, fixing them, and improving 
 ## 🚀 Keep Learning, Keep Building!
 
 <p>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="333" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="333"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="333" height="187"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
 </p>
 
 
